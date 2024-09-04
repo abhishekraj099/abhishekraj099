@@ -21,7 +21,7 @@
 - 👨‍💻 Projects: [GitHub Profile](https://github.com/abhishekraj099)
 - 💬 Ask me about: **Android Projects, Kotlin, Jetpack Compose**
 - 📫 Reach me at: **abhisraj099@gmail.com**
-- 📄 You can view my resume <a href="https://drive.google.com/file/d/1T-GqeO38QwEormz16_GbiHa5hhX4g35L/view?usp=sharing" target="_blank" rel="noopener">here</a>.
+- 📄 You can view my resume <a href="https://drive.google.com/file/d/1LguEAK2kHbywmCFIqhy-rEDVBG8_ILKY/view?usp=sharing" target="_blank" rel="noopener">here</a>.
 
 <br>
 
