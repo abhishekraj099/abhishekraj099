@@ -5,7 +5,7 @@
 </div>
 
 <h3 align="center">🚀 Computer Science undergrad passionate about tech and skilled in problem solving.
- 3rd year at Chandigarh University | Android Developer (Jetpack Compose)</h3>
+  3rd year at Chandigarh University | Android Developer (Jetpack Compose)</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhishekraj099&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -21,12 +21,13 @@
 - 👨‍💻 Projects: [GitHub Profile](https://github.com/abhishekraj099)
 - 💬 Ask me about: **Android Projects, Kotlin, Jetpack Compose**
 - 📫 Reach me at: **abhisraj099@gmail.com**
+- 📄 You can view my resume <a href="https://drive.google.com/file/d/1T-GqeO38QwEormz16_GbiHa5hhX4g35L/view?usp=sharing" target="_blank" rel="noopener">here</a>.
 
 <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/iabhishekraj/" target="blank">
+  <a href="https://linkedin.com/in/abhishekraj099" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
